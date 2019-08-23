@@ -1,5 +1,4 @@
 #Restarts apache services
-#Use case - GEINC4357938 - apache services were restarted by the webhosting team 
 
 #!/bin/sh
 
